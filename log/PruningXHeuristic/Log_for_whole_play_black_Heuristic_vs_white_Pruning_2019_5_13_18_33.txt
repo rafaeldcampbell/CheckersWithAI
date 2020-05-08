@@ -1,0 +1,10 @@
+Blacks: Heuristic
+Whites: Pruning
+
+
+Para o jogo 1 ==> brancas vencem em 5.978464126586914 segundos
+
+
+Para o jogo 2 ==> brancas vencem em 2.9313442707061768 segundos
+
+

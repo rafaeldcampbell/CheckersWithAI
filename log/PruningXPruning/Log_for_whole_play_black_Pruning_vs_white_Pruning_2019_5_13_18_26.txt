@@ -1,0 +1,10 @@
+Blacks: Pruning
+Whites: Pruning
+
+
+Para o jogo 1 ==> brancas vencem em 3.0639283657073975 segundos
+
+
+Para o jogo 2 ==> pretas vencem em 3.877265453338623 segundos
+
+

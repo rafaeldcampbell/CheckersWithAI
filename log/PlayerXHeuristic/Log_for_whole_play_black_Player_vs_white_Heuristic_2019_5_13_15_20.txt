@@ -1,0 +1,7 @@
+Blacks: Player
+Whites: Heuristic
+
+
+Para o jogo 1 ==> pretas vencem em 496.56986141204834 segundos
+
+

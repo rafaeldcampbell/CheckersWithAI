@@ -1,0 +1,7 @@
+Blacks: Player
+Whites: Pruning
+
+
+Para o jogo 1 ==> pretas vencem em 518.8850111961365 segundos
+
+

@@ -1,0 +1,157 @@
+Para a jogada 2 ==> 0.0 segundos
+Para a jogada 2 ==> visitados 19 nós, com 12 podados
+Para a jogada 2 ==> (2, 5) -> (3, 6) |  capturando 0 peça(s)
+
+Para a jogada 4 ==> 0.0010077953338623047 segundos
+Para a jogada 4 ==> visitados 2 nós, com 0 podados
+Para a jogada 4 ==> (3, 6) -> (5, 4) |  capturando 1 peça(s)
+
+Para a jogada 5 ==> 0.0 segundos
+Para a jogada 5 ==> visitados 1 nós, com 0 podados
+Para a jogada 5 ==> (5, 4) -> (3, 2) |  capturando 1 peça(s)
+
+Para a jogada 8 ==> 0.000720977783203125 segundos
+Para a jogada 8 ==> visitados 1 nós, com 0 podados
+Para a jogada 8 ==> (3, 2) -> (5, 0) |  capturando 1 peça(s)
+
+Para a jogada 11 ==> 0.00997781753540039 segundos
+Para a jogada 11 ==> visitados 19 nós, com 12 podados
+Para a jogada 11 ==> (2, 1) -> (3, 0) |  capturando 0 peça(s)
+
+Para a jogada 13 ==> 0.0 segundos
+Para a jogada 13 ==> visitados 26 nós, com 17 podados
+Para a jogada 13 ==> (1, 0) -> (2, 1) |  capturando 0 peça(s)
+
+Para a jogada 15 ==> 0.008979082107543945 segundos
+Para a jogada 15 ==> visitados 22 nós, com 14 podados
+Para a jogada 15 ==> (2, 3) -> (3, 2) |  capturando 0 peça(s)
+
+Para a jogada 17 ==> 0.015176534652709961 segundos
+Para a jogada 17 ==> visitados 30 nós, com 21 podados
+Para a jogada 17 ==> (1, 6) -> (2, 5) |  capturando 0 peça(s)
+
+Para a jogada 19 ==> 0.015172004699707031 segundos
+Para a jogada 19 ==> visitados 31 nós, com 20 podados
+Para a jogada 19 ==> (3, 0) -> (4, 1) |  capturando 0 peça(s)
+
+Para a jogada 21 ==> 0.011015653610229492 segundos
+Para a jogada 21 ==> visitados 27 nós, com 16 podados
+Para a jogada 21 ==> (2, 1) -> (3, 0) |  capturando 0 peça(s)
+
+Para a jogada 23 ==> 0.015180587768554688 segundos
+Para a jogada 23 ==> visitados 24 nós, com 12 podados
+Para a jogada 23 ==> (1, 2) -> (2, 1) |  capturando 0 peça(s)
+
+Para a jogada 25 ==> 0.0 segundos
+Para a jogada 25 ==> visitados 24 nós, com 14 podados
+Para a jogada 25 ==> (2, 7) -> (3, 6) |  capturando 0 peça(s)
+
+Para a jogada 28 ==> 0.0005784034729003906 segundos
+Para a jogada 28 ==> visitados 2 nós, com 0 podados
+Para a jogada 28 ==> (0, 5) -> (2, 7) |  capturando 1 peça(s)
+
+Para a jogada 32 ==> 0.0010058879852294922 segundos
+Para a jogada 32 ==> visitados 1 nós, com 0 podados
+Para a jogada 32 ==> (1, 4) -> (3, 6) |  capturando 1 peça(s)
+
+Para a jogada 35 ==> 0.016959667205810547 segundos
+Para a jogada 35 ==> visitados 40 nós, com 31 podados
+Para a jogada 35 ==> (0, 3) -> (1, 2) |  capturando 0 peça(s)
+
+Para a jogada 37 ==> 0.0 segundos
+Para a jogada 37 ==> visitados 26 nós, com 19 podados
+Para a jogada 37 ==> (1, 2) -> (2, 3) |  capturando 0 peça(s)
+
+Para a jogada 39 ==> 0.0 segundos
+Para a jogada 39 ==> visitados 15 nós, com 8 podados
+Para a jogada 39 ==> (3, 6) -> (4, 5) |  capturando 0 peça(s)
+
+Para a jogada 42 ==> 0.0 segundos
+Para a jogada 42 ==> visitados 3 nós, com 0 podados
+Para a jogada 42 ==> (2, 7) -> (4, 5) |  capturando 1 peça(s)
+
+Para a jogada 45 ==> 0.0 segundos
+Para a jogada 45 ==> visitados 16 nós, com 8 podados
+Para a jogada 45 ==> (4, 5) -> (5, 4) |  capturando 0 peça(s)
+
+Para a jogada 48 ==> 0.0 segundos
+Para a jogada 48 ==> visitados 14 nós, com 8 podados
+Para a jogada 48 ==> (5, 0) -> (6, 1) |  capturando 0 peça(s)
+
+Para a jogada 51 ==> 0.0 segundos
+Para a jogada 51 ==> visitados 12 nós, com 7 podados
+Para a jogada 51 ==> (0, 7) -> (1, 6) |  capturando 0 peça(s)
+
+Para a jogada 54 ==> 0.0 segundos
+Para a jogada 54 ==> visitados 2 nós, com 0 podados
+Para a jogada 54 ==> (2, 1) -> (0, 3) |  capturando 1 peça(s)
+
+Para a jogada 57 ==> 0.015166997909545898 segundos
+Para a jogada 57 ==> visitados 44 nós, com 35 podados
+Para a jogada 57 ==> (1, 6) -> (2, 7) |  capturando 0 peça(s)
+
+Para a jogada 59 ==> 0.01097559928894043 segundos
+Para a jogada 59 ==> visitados 27 nós, com 18 podados
+Para a jogada 59 ==> (4, 1) -> (5, 2) |  capturando 0 peça(s)
+
+Para a jogada 61 ==> 0.014000177383422852 segundos
+Para a jogada 61 ==> visitados 44 nós, com 27 podados
+Para a jogada 61 ==> (3, 0) -> (4, 1) |  capturando 0 peça(s)
+
+Para a jogada 63 ==> 0.0 segundos
+Para a jogada 63 ==> visitados 37 nós, com 23 podados
+Para a jogada 63 ==> (0, 3) -> (1, 2) |  capturando 0 peça(s)
+
+Para a jogada 65 ==> 0.0 segundos
+Para a jogada 65 ==> visitados 18 nós, com 11 podados
+Para a jogada 65 ==> (1, 2) -> (2, 1) |  capturando 0 peça(s)
+
+Para a jogada 67 ==> 0.026932477951049805 segundos
+Para a jogada 67 ==> visitados 34 nós, com 26 podados
+Para a jogada 67 ==> (0, 1) -> (1, 0) |  capturando 0 peça(s)
+
+Para a jogada 69 ==> 0.0 segundos
+Para a jogada 69 ==> visitados 21 nós, com 16 podados
+Para a jogada 69 ==> (5, 2) -> (6, 3) |  capturando 0 peça(s)
+
+Para a jogada 71 ==> 0.0 segundos
+Para a jogada 71 ==> visitados 1 nós, com 0 podados
+Para a jogada 71 ==> (2, 7) -> (4, 5) |  capturando 1 peça(s)
+
+Para a jogada 74 ==> 0.030728578567504883 segundos
+Para a jogada 74 ==> visitados 46 nós, com 35 podados
+Para a jogada 74 ==> (4, 5) -> (5, 4) |  capturando 0 peça(s)
+
+Para a jogada 76 ==> 0.016959428787231445 segundos
+Para a jogada 76 ==> visitados 39 nós, com 32 podados
+Para a jogada 76 ==> (4, 1) -> (5, 2) |  capturando 0 peça(s)
+
+Para a jogada 78 ==> 0.0 segundos
+Para a jogada 78 ==> visitados 19 nós, com 12 podados
+Para a jogada 78 ==> (6, 3) -> (7, 4) |  capturando 0 peça(s) e virando dama
+
+Para a jogada 83 ==> 0.012014150619506836 segundos
+Para a jogada 83 ==> visitados 28 nós, com 19 podados
+Para a jogada 83 ==> (7, 4) -> (3, 0) |  capturando 0 peça(s)
+
+Para a jogada 85 ==> 0.005987644195556641 segundos
+Para a jogada 85 ==> visitados 13 nós, com 8 podados
+Para a jogada 85 ==> (2, 1) -> (3, 2) |  capturando 0 peça(s)
+
+Para a jogada 88 ==> 0.0 segundos
+Para a jogada 88 ==> visitados 2 nós, com 0 podados
+Para a jogada 88 ==> (3, 0) -> (1, 2) |  capturando 1 peça(s)
+
+Para a jogada 92 ==> 0.0 segundos
+Para a jogada 92 ==> visitados 1 nós, com 0 podados
+Para a jogada 92 ==> (1, 0) -> (3, 2) |  capturando 1 peça(s)
+
+Para a jogada 95 ==> 0.0 segundos
+Para a jogada 95 ==> visitados 1 nós, com 0 podados
+Para a jogada 95 ==> (3, 2) -> (5, 0) |  capturando 1 peça(s)
+
+Para a jogada 98 ==> 0.0 segundos
+Para a jogada 98 ==> visitados 1 nós, com 0 podados
+Para a jogada 98 ==> (5, 0) -> (7, 2) |  capturando 1 peça(s) e virando dama
+
+=========== VITÓRIA =============
